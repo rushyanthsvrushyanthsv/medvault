@@ -1,0 +1,8 @@
+{
+  "name": "MedVault",
+  "description": "Secure digital health vault with QR access, AI health companion, and smart reminders.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
